@@ -1,6 +1,5 @@
-
-
-
+'''Fix needed god == dog'''
+'''CASE! GOD == dog'''
 
 # simple python built in
 def check_permutation(str1, str2):
