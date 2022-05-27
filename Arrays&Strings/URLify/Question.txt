@@ -1,0 +1,1 @@
+Replace all spaces in the string with %20
